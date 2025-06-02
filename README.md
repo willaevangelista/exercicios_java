@@ -2,8 +2,7 @@
 
 # Exercícios de Lógica de Programação com Java
 
-Este repositório contém minhas resoluções diárias de exercícios de lógica de programação utilizando a linguagem Java.  
-O objetivo é aprimorar minhas habilidades em resolução de problemas, consolidar o aprendizado da linguagem e desenvolver uma rotina consistente de prática, contribuindo também para meu portfólio público.
+Este repositório contém minhas resoluções diárias de exercícios de lógica de programação utilizando a linguagem Java. O objetivo é aprimorar minhas habilidades em resolução de problemas, consolidar o aprendizado da linguagem e desenvolver uma rotina consistente de prática, contribuindo também para meu portfólio público.
 
 </div>
 
