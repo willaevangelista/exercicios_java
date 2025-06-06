@@ -45,6 +45,7 @@ Este repositório contém minhas resoluções diárias de exercícios de lógica
 | Exercício 3 | Cálculo das tabuadas de 01 a 10 utilizando laços de repetição `for`. | [Ver resolução](src/javaExercicios/Exercicio3.java) |
 | Exercicio 4 | Cálculo da tabuada do número informado pelo usuário com o laço de repetição `for`. | [Ver resolução](src/javaExercicios/Exercicio4.java) |
 | Exercicio 5 | Conversor de Temperatura de Fahrenheit para Celcius usando `while` e `try catch`. | [Ver resolução](src/javaExercicios/Exercicio5.java) |
+| Exercicio 6 | Comparador da soma dos números A e B em relação ao valor C. | [Ver resolução](src/javaExercicios/Exercicio6.java) |
 
 <div id='estruturaDoRepositório'/> 
 
