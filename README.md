@@ -40,12 +40,16 @@ Este repositório contém minhas resoluções diárias de exercícios de lógica
 
 | Exercício | Descrição | Resolução |
 |-----------|-----------|-----------|
-| Exercício 1 | Cálculo da bateria de um laptop, considerando eventos de consumo e de carregamento. | [Ver resolução](src/javaExercicios/Exercicio1.java) |
-| Exercício 2 | Cálculo de distância e consumo de combustível com base no tempo e velocidade média. | [Ver resolução](src/javaExercicios/Exercicio2.java) |
-| Exercício 3 | Cálculo das tabuadas de 01 a 10 utilizando laços de repetição `for`. | [Ver resolução](src/javaExercicios/Exercicio3.java) |
-| Exercicio 4 | Cálculo da tabuada do número informado pelo usuário com o laço de repetição `for`. | [Ver resolução](src/javaExercicios/Exercicio4.java) |
-| Exercicio 5 | Conversor de Temperatura de Fahrenheit para Celcius usando `while` e `try catch`. | [Ver resolução](src/javaExercicios/Exercicio5.java) |
-| Exercicio 6 | Comparador da soma dos números A e B em relação ao valor C. | [Ver resolução](src/javaExercicios/Exercicio6.java) |
+| Exercício 1 | Cálculo da bateria de um laptop, considerando eventos de consumo e de carregamento. | [Ver resolução](src/javaExercicios/Exercicio01.java) |
+| Exercício 2 | Cálculo de distância e consumo de combustível com base no tempo e velocidade média. | [Ver resolução](src/javaExercicios/Exercicio02.java) |
+| Exercício 3 | Cálculo das tabuadas de 01 a 10 utilizando laços de repetição `for`. | [Ver resolução](src/javaExercicios/Exercicio03.java) |
+| Exercício 4 | Cálculo da tabuada do número informado pelo usuário com o laço de repetição `for`. | [Ver resolução](src/javaExercicios/Exercicio04.java) |
+| Exercício 5 | Conversor de Temperatura de Fahrenheit para Celsius usando `while` e `try-catch`. | [Ver resolução](src/javaExercicios/Exercicio05.java) |
+| Exercício 6 | Comparador da soma dos números A e B em relação ao valor C. | [Ver resolução](src/javaExercicios/Exercicio06.java) |
+| Exercício 7 | Verificação se um número é par ou ímpar e se é positivo, negativo ou zero. | [Ver resolução](src/javaExercicios/Exercicio07.java) |
+| Exercício 8 | Soma ou multiplicação entre dois números inteiros com base na igualdade entre eles. | [Ver resolução](src/javaExercicios/Exercicio08.java) |
+| Exercício 9 | Exibição do antecessor e do sucessor de um número inteiro informado pelo usuário. | [Ver resolução](src/javaExercicios/Exercicio09.java) |
+| Exercício 10 | Cálculo de quantos salários mínimos um usuário recebe com base no valor fixo de R$ 1.518,00. | [Ver resolução](src/javaExercicios/Exercicio10.java) |
 
 <div id='estruturaDoRepositório'/> 
 
