@@ -160,7 +160,7 @@ package javaexercicios;
 
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class Exercicio01 {
 
     public static void main(String[] args) {
 

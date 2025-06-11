@@ -36,7 +36,7 @@ package javaexercicios;
 
 import java.util.Scanner;
 
-public class Exercicio6 {
+public class Exercicio06 {
 	
 	public static void main (String[] args) {
 		

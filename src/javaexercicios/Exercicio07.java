@@ -54,7 +54,7 @@ package javaexercicios;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Exercicio7 {
+public class Exercicio07 {
 	
 	public static void main(String[] args) {
 		
