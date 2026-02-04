@@ -21,7 +21,7 @@ Não é permitido usar bibliotecas externas para a conversão.
 O código deve ser legível, modular e seguir boas práticas de desenvolvimento.
  */
 
-package javaexercicios;
+package javaexercicios.exercicios01a10;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

@@ -156,7 +156,7 @@ public class Exercicio1 {
 
 //CODIGO DO EXERCICIO
 
-package javaexercicios;
+package javaexercicios.exercicios01a10;
 
 import java.util.Scanner;
 

@@ -22,7 +22,7 @@
  * - Estruturação e boas práticas de codificação.
  */
 
-package javaexercicios;
+package javaexercicios.exercicios11a20;
 
 import java.util.Scanner;
 

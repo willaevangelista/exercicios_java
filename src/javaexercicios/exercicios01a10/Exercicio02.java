@@ -44,7 +44,7 @@ Parâmetros:
 - velocidade: número representando a velocidade média em km/h.
  */
 
-package javaexercicios;
+package javaexercicios.exercicios01a10;
 
 import java.util.Scanner;
 

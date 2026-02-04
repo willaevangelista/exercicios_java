@@ -32,7 +32,7 @@
  * 
  * */
 
-package javaexercicios;
+package javaexercicios.exercicios01a10;
 
 import java.util.Scanner;
 

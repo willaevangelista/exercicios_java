@@ -55,7 +55,7 @@
  */
 
 
-package javaexercicios;
+package javaexercicios.exercicios01a10;
 
 public class Exercicio03 {
 	

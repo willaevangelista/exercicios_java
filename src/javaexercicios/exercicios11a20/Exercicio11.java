@@ -22,7 +22,7 @@
  * - Valor com reajuste de 5%: 210.00
  * */
 
-package javaexercicios;
+package javaexercicios.exercicios11a20;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

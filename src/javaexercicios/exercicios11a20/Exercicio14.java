@@ -44,7 +44,7 @@
  * - Boa escolha de nomes de métodos e variáveis.
  */
 
-package javaexercicios;
+package javaexercicios.exercicios11a20;
 
 import java.util.List;
 

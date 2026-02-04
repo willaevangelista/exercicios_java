@@ -15,7 +15,7 @@
  * Com um salário de R$ 3.036,00, você recebe 2,00 salários mínimos.
  */
 
-package javaexercicios;
+package javaexercicios.exercicios01a10;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
