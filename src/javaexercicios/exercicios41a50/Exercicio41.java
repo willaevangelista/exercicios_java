@@ -14,32 +14,23 @@ public class Exercicio41 {
 
     public static void main(String[] args){
         Exercicio41 exercicio = new Exercicio41();
-        String resultado = exercicio.startOz("Ozimaria");
+        String resultado = exercicio.startOz("oimaria");
         System.out.println(resultado);
     }
 
     public String startOz(String str) {
 
-        if (!str.isEmpty()) {
+        String result = "";
 
-            if (str.length() > 1 && str.substring(0, 2).equals("oz")){
-                return str.substring(0, 2);
-
-            }
-
-            if (str.length() > 1 && str.substring(1, 2).equals("z")) {
-                return str.substring(1, 2);
-            }
-
-            if (str.substring(0, 1).equals("o")){
-
-                return str.substring(0, 1);
-
-            }
-
+        if (str.length() >= 1 && str.charAt(0)=='o'){
+            result = result + str.charAt(0);
         }
 
-        return "";
+        if (str.length() >= 2 && str.charAt(1)=='z'){
+            result = result + str.charAt(1);
+        }
+
+        return result;
 
     }
 }
